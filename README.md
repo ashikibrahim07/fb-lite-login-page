@@ -1,6 +1,7 @@
 # FB Lite Login Page
 
 This project is a simple login page inspired by Facebook Lite, implemented using HTML and CSS only.
+It's been six months since I built it, and I've just now added it to GitHub.
 
 ## Viewing the Login Page
 
