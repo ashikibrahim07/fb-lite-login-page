@@ -31,7 +31,7 @@ To use the login page:
 
 ## Credits
 
-- Facebook Lite font and design inspired by Facebook Lite.
+- Design inspired by Facebook Lite.
 
 ## License
 
