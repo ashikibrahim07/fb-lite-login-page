@@ -31,8 +31,7 @@ To use the login page:
 
 ## Credits
 
-- Facebook Lite logo and design inspired by Facebook Lite.
-- Font Awesome icons for the social media buttons.
+- Facebook Lite font and design inspired by Facebook Lite.
 
 ## License
 
