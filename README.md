@@ -34,6 +34,10 @@ To use the login page:
 
 - Design inspired by Facebook Lite.
 
+## Author
+
+Ashik Ibrahim S
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
