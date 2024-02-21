@@ -30,6 +30,10 @@ To use the login page:
 4. If you have forgotten your password, click on the "Forgotten Password?" link to recover it.
 5. Optionally, you can also create a new account by clicking on the "Create New Account" button.
 
+# Live Demo
+
+You can view the live demo of the project [here](https://ashikibrahim07.github.io/fb-lite-login-page/).
+
 ## Credits
 
 - Design inspired by Facebook Lite.
